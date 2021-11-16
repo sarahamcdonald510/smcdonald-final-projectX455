@@ -1,2 +1,2 @@
-# smcdonald final projectX455
- 
+# X455-smcdonald-project
+ First Github Project
